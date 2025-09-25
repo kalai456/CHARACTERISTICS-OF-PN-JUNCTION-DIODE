@@ -44,3 +44,6 @@ Model Graph:
 
 
 Result:
+![WhatsApp Image 2025-09-25 at 13 40 45_a0a9c2d8](https://github.com/user-attachments/assets/ede62b6e-fa40-4672-934c-18f8fe5f7fe3)
+![WhatsApp Image 2025-09-25 at 13 40 45_0a860598](https://github.com/user-attachments/assets/123cd9f8-689c-4875-8032-71c994e28c85)
+
